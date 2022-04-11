@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Quizz
 {
-    public class User : Object
+    public class User
     {
         public string Name { get; set; }
 
